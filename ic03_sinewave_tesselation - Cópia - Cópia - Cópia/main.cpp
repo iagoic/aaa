@@ -85,7 +85,7 @@ int main(int argv, char** argc){
 	//glDepthFunc(GL_LESS);
 
 	// Cull triangles which normal is not towards the camera
-	//glEnable(GL_CULL_FACE);
+	glEnable(GL_CULL_FACE);
 //	if()
 	//glPolygonMode(GL_FRONT_AND_BACK, GL_LINE);
 

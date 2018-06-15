@@ -591,14 +591,14 @@
 
 1516378461 c:\users\richardba\desktop\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\vectormath\mat_aos_v.h
 
-1527261573 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\controls.cpp
+1528997004 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\controls.cpp
 	<GLFW/glfw3.h>
 	<glm/glm.hpp>
 	<glm/gtc/matrix_transform.hpp>
 	<vector>
 	"controls.hpp"
 
-1527261553 c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\controls.hpp
+1528996723 c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\controls.hpp
 	<glm/glm.hpp>
 	<glm/gtc/matrix_transform.hpp>
 
@@ -616,7 +616,7 @@
 
 1516397421 c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\loadshaders.hpp
 
-1528939308 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\main.cpp
+1528998385 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\main.cpp
 	<vector>
 	<iostream>
 	<string>
@@ -750,7 +750,7 @@
 	<glm/glm.hpp>
 	<glm/gtc/matrix_transform.hpp>
 
-1528938638 c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\controls.cpp
+1528999852 c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\controls.cpp
 	<GLFW/glfw3.h>
 	<glm/glm.hpp>
 	<glm/gtc/matrix_transform.hpp>
@@ -762,12 +762,12 @@
 	<glm/gtc/matrix_transform.hpp>
 	"Plane.h"
 
-1528939693 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\plane.cpp
+1528940170 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\plane.cpp
 	<glm/glm.hpp>
 	<glm/gtc/matrix_transform.hpp>
 	"Plane.h"
 
-1528938618 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\control.cpp
+1528996172 source:c:\users\iago.labcg-pc\desktop\ic\ic\ufba2017_ic\ic03_sinewave_tesselation - cópia - cópia - cópia\control.cpp
 	"control.h"
 	<GLFW/glfw3.h>
 	<glm/glm.hpp>

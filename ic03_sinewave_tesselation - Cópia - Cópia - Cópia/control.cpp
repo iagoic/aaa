@@ -3,6 +3,8 @@
 #include <glm/glm.hpp>
 #include <glm/gtc/matrix_transform.hpp>
 
+using namespace glm;
+
 class Control{
     float angle = 60.0;
     float farDist   = 100.0;
@@ -142,7 +144,7 @@ void Control::computeMatricesFromInputs(GLFWwindow* window){
    	nc = position + direction * nearDist;
 
 	// Camera matrix
-	ViewMatrix       = glm::lookAt(
+	ViewMatrix = glm::lookAt(
 								nc,           // (px, py, pz) Camera is here
 								fc, // (lx = px + dx, ly = py + dy, lz = pz + dz) and looks here : at the same position, plus "direction"
 								up                  // Head is up (set to 0,-1,0 to look upside-down)
