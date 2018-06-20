@@ -1,0 +1,21 @@
+#version 400 core
+
+in vec2 position; //position.x e position.y são cooordenadas de um vértice
+
+uniform float amp;
+
+out float y;
+
+out vec3 vPosition;
+out vec3 nPosition;
+
+void main(){
+    y = cos((position.x)) * sin((position.y));
+    y = y*amp;
+
+    //vec3 edge1 = position.x - y;
+    //vec3 edge2 = position.y - y;
+
+    //nPosition  = cross(edge1, edge2);
+    vPosition = vec3(position.x, y, position.y);
+}
